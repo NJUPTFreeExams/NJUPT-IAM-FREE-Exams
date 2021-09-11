@@ -43,7 +43,7 @@
 # 🥇贡献
 
 欢迎！Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
-感谢[`CharlieNALAN`](https://github.com/CharlieNALAN）
+感谢[`CharlieNALAN`](https://github.com/CharlieNALAN)
 及[`luckyahri`](https://github.com/luckyahri)对此资料库的贡献
 
 
