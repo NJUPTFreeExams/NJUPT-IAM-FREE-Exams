@@ -38,7 +38,6 @@
 [`量子力学理学院资料`](https://github.com/lemoxiao/NJUPT-AP-Free-Exams/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6)
 
 [`工程光学`](./工程光学/)
-[`工程光学理学院资料`](https://github.com/CharlieNALAN/NJUPT-IAM-FREE-Exam/tree/main/%E5%B7%A5%E7%A8%8B%E5%85%89%E5%AD%A6)
 
 # 🥇贡献
 
