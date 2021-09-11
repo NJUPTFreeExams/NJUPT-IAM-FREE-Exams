@@ -37,6 +37,9 @@
 [`量子力学`](./量子力学/)
 [`量子力学理学院资料`](https://github.com/lemoxiao/NJUPT-AP-Free-Exams/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6)
 
+['工程光学'](./工程光学/)
+['工程光学理学院资料']()
+
 # 🥇贡献
 
 欢迎！Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
