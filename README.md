@@ -1,7 +1,7 @@
 # NJUPT-IAM-FREE-Exam
 南京邮电大学材料专业历年复习资料
 
-受 [`NJUPT-General-Free-Exams`](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams) 和 [`NJUPT-CS-Free-Exams`](https://github.com/NJUPTFreeExams/NJUPT-CS-FREE)及 [`NJUPT-AP-Free-Exams`](https://github.com/lemoxiao/NJUPT-AP-Free-Exams) 等项目启发，我们决定将南京邮电大学材料物理专业的历年资料整理出来，以利后人。上述几个项目对本资料集有重要影响，在这里向他们表示感谢。
+受 [`NJUPT-General-Free-Exams`](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams) 和 [`NJUPT-CS-Free-Exams`](https://github.com/NJUPTFreeExams/NJUPT-CS-FREE)及 [`NJUPT-AP-Free-Exams`](https://github.com/lemoxiao/NJUPT-AP-Free-Exams) 等项目启发，我们决定将南京邮电大学材料物理专业、材料化学专业、高分子专业的历年资料整理出来，以利后人。上述几个项目对本资料集有重要影响，在这里向他们表示感谢。
 
 如果觉得本仓库有用，欢迎给个Star😼来自大家的关注、维护和贡献，才是让这个资料集继续存在的核心动力
 
